@@ -1,4 +1,4 @@
-package com.fiap.ecb.api_marcacao_consultas.security;
+package com.fiap.ecb.api_marcacao_consultas.config;
 
 import com.fiap.ecb.api_marcacao_consultas.security.JwtAuthenticationFilter;
 import com.fiap.ecb.api_marcacao_consultas.security.JwtTokenProvider;
