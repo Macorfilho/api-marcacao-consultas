@@ -1,5 +1,4 @@
 package com.fiap.ecb.api_marcacao_consultas.controller;
-
 import com.fiap.ecb.api_marcacao_consultas.model.Especialidade;
 import com.fiap.ecb.api_marcacao_consultas.service.EspecialidadeService;
 import org.springframework.http.ResponseEntity;

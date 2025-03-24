@@ -1,5 +1,4 @@
 package com.fiap.ecb.api_marcacao_consultas.service;
-
 import com.fiap.ecb.api_marcacao_consultas.model.Consulta;
 import com.fiap.ecb.api_marcacao_consultas.repository.ConsultaRepository;
 import org.springframework.stereotype.Service;

@@ -1,5 +1,4 @@
 package com.fiap.ecb.api_marcacao_consultas.repository;
-
 import com.fiap.ecb.api_marcacao_consultas.model.Consulta;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
